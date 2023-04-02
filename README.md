@@ -24,7 +24,7 @@ TODO.
 
 ### Isthmus Scramble
 
-[Isthmus Scramble 4vs4.scx](https://github.com/acodcha/starcraft-maps/maps/isthmus_scramble/Isthmus%20Scramble%204vs4.scx)
+[Isthmus Scramble 4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/isthmus_scramble/Isthmus%20Scramble%204vs4.scx)
 
 ![Isthmus Scramble](maps/isthmus_scramble/Isthmus%20Scramble.png)
 
