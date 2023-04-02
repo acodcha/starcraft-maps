@@ -17,7 +17,12 @@ A repository of my custom-made maps for the StarCraft: Remastered video game by 
 
 ### Isthmus Scramble
 
+Standard:
+
 - [Isthmus_Scramble_4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4.scx)
+
+Cooperative:
+
 - [Isthmus_Scramble_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs1_Computer.scx)
 - [Isthmus_Scramble_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs2_Computers.scx)
 - [Isthmus_Scramble_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs3_Computers.scx)
@@ -29,7 +34,12 @@ A repository of my custom-made maps for the StarCraft: Remastered video game by 
 
 ### Stratal Concourse
 
+Standard:
+
 - [Stratal_Concourse_4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4.scx)
+
+Cooperative:
+
 - [Stratal_Concourse_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs1_Computer.scx)
 - [Stratal_Concourse_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs2_Computers.scx)
 - [Stratal_Concourse_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs3_Computers.scx)
@@ -53,8 +63,13 @@ TODO.
 
 ### Intertwined Platforms
 
+Standard:
+
 - [Intertwined_Platforms_2vs2.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2.scx)
 - [Intertwined_Platforms_1vs3.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_1vs3.scx)
+
+Cooperative:
+
 - [Intertwined_Platforms_3vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_3vs1_Computer.scx)
 - [Intertwined_Platforms_2vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2_Computers.scx)
 - [Intertwined_Platforms_1vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_1vs3_Computers.scx)
