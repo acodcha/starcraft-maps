@@ -24,9 +24,13 @@ TODO.
 
 ### Isthmus Scramble
 
-[Isthmus Scramble 4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/isthmus_scramble/Isthmus%20Scramble%204vs4.scx)
+- [Isthmus_Scramble_4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4.scx)
+- [Isthmus_Scramble_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4_Computers.scx)
+- [Isthmus_Scramble_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs3_Computers.scx)
+- [Isthmus_Scramble_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs2_Computers.scx)
+- [Isthmus_Scramble_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs1_Computer.scx)
 
-![Isthmus Scramble](maps/isthmus_scramble/Isthmus%20Scramble.png)
+![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png)
 
 [(Back to Top)](#)
 
