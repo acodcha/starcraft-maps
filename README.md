@@ -4,23 +4,13 @@
 
 A repository of my custom-made maps for the StarCraft: Remastered video game by Blizzard Entertainment.
 
-- [4-Player 2vs2 Maps](#4-player-2vs2-maps)
-- [6-Player 3vs3 Maps](#6-player-3vs3-maps)
 - [8-Player 4vs4 Maps](#8-player-4vs4-maps)
-
-## 4-Player 2vs2 Maps
-
-TODO.
-
-[(Back to Top)](#)
-
-## 6-Player 3vs3 Maps
-
-TODO.
-
-[(Back to Top)](#)
+- [6-Player 3vs3 Maps](#6-player-3vs3-maps)
+- [4-Player 2vs2 Maps](#4-player-2vs2-maps)
 
 ## 8-Player 4vs4 Maps
+
+- [Isthmus Scramble](#isthmus-scramble)
 
 ### Isthmus Scramble
 
@@ -31,6 +21,18 @@ TODO.
 - [Isthmus_Scramble_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs1_Computer.scx)
 
 ![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png)
+
+[(Back to Top)](#)
+
+## 6-Player 3vs3 Maps
+
+TODO.
+
+[(Back to Top)](#)
+
+## 4-Player 2vs2 Maps
+
+TODO.
 
 [(Back to Top)](#)
 
