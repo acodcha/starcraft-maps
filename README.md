@@ -11,6 +11,7 @@ A repository of my custom-made maps for the StarCraft: Remastered video game by 
 ## 8-Player 4vs4 Maps
 
 - [Isthmus Scramble](#isthmus-scramble)
+- [Stratal Concourse](#stratal-concourse)
 
 [(Back to Top)](#)
 
@@ -23,6 +24,18 @@ A repository of my custom-made maps for the StarCraft: Remastered video game by 
 - [Isthmus_Scramble_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs1_Computer.scx)
 
 ![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png)
+
+[(Back to 8-Player 4vs4 Maps)](#8-player-4vs4-maps)
+
+### Stratal Concourse
+
+- [Stratal_Concourse_4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4.scx)
+- [Stratal_Concourse_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4_Computers.scx)
+- [Stratal_Concourse_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs3_Computers.scx)
+- [Stratal_Concourse_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs2_Computers.scx)
+- [Stratal_Concourse_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs1_Computer.scx)
+
+![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png)
 
 [(Back to 8-Player 4vs4 Maps)](#8-player-4vs4-maps)
 
