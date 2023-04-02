@@ -18,10 +18,10 @@ A repository of my custom-made maps for the StarCraft: Remastered video game by 
 ### Isthmus Scramble
 
 - [Isthmus_Scramble_4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4.scx)
-- [Isthmus_Scramble_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4_Computers.scx)
-- [Isthmus_Scramble_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs3_Computers.scx)
-- [Isthmus_Scramble_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs2_Computers.scx)
 - [Isthmus_Scramble_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs1_Computer.scx)
+- [Isthmus_Scramble_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs2_Computers.scx)
+- [Isthmus_Scramble_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs3_Computers.scx)
+- [Isthmus_Scramble_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4_Computers.scx)
 
 ![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png)
 
@@ -30,10 +30,10 @@ A repository of my custom-made maps for the StarCraft: Remastered video game by 
 ### Stratal Concourse
 
 - [Stratal_Concourse_4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4.scx)
-- [Stratal_Concourse_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4_Computers.scx)
-- [Stratal_Concourse_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs3_Computers.scx)
-- [Stratal_Concourse_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs2_Computers.scx)
 - [Stratal_Concourse_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs1_Computer.scx)
+- [Stratal_Concourse_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs2_Computers.scx)
+- [Stratal_Concourse_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs3_Computers.scx)
+- [Stratal_Concourse_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4_Computers.scx)
 
 ![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png)
 
@@ -47,9 +47,21 @@ TODO.
 
 ## 4-Player 2vs2 Maps
 
-TODO.
+- [Intertwined Platforms](#intertwined-platforms)
 
 [(Back to Top)](#)
+
+### Intertwined Platforms
+
+- [Intertwined_Platforms_2vs2.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2.scx)
+- [Intertwined_Platforms_1vs3.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_1vs3.scx)
+- [Intertwined_Platforms_3vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_3vs1_Computer.scx)
+- [Intertwined_Platforms_2vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2_Computers.scx)
+- [Intertwined_Platforms_1vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_1vs3_Computers.scx)
+
+![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png)
+
+[(Back to 4-Player 2vs2 Maps)](#4-player-2vs2-maps)
 
 ## License
 
