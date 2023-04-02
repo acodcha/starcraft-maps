@@ -17,7 +17,7 @@ A repository of my custom-made maps for the StarCraft: Remastered video game by 
 
 ### Isthmus Scramble
 
-Standard:
+Versus:
 
 - [Isthmus_Scramble_4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4.scx)
 
@@ -34,7 +34,7 @@ Cooperative:
 
 ### Stratal Concourse
 
-Standard:
+Versus:
 
 - [Stratal_Concourse_4vs4.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4.scx)
 
@@ -63,7 +63,7 @@ TODO.
 
 ### Intertwined Platforms
 
-Standard:
+Versus:
 
 - [Intertwined_Platforms_2vs2.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2.scx)
 - [Intertwined_Platforms_1vs3.scx](https://github.com/acodcha/starcraft-maps/blob/main/maps/Intertwined_Platforms/Intertwined_Platforms_1vs3.scx)
