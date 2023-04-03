@@ -1,16 +1,14 @@
-# StarCraft Maps
-
 [View on GitHub.io](https://acodcha.github.io/starcraft-maps) · [View on GitHub.com](https://github.com/acodcha/starcraft-maps)
 
-A repository of my custom-made maps for the StarCraft Remastered video game by Blizzard Entertainment.
+This repository contains my custom-made maps for the StarCraft Remastered video game by Blizzard Entertainment. Maps used in professional leagues are typically designed for 1vs1 games, whereas my maps focus on 2vs2, 3vs3, and 4vs4 team games.
 
-- [Intertwined Platforms](#intertwined-platforms)
-- [Isthmus Scramble](#isthmus-scramble)
-- [Stratal Concourse](#stratal-concourse)
+- [Intertwined Platforms (2vs2)](#intertwined-platforms-2vs2)
+- [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
+- [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
 
-## Intertwined Platforms
+## Intertwined Platforms (2vs2)
 
-Teams:
+Versus:
 
 - [Intertwined_Platforms_2vs2.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2.scx)
 - [Intertwined_Platforms_1vs3.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Intertwined_Platforms/Intertwined_Platforms_1vs3.scx)
@@ -25,9 +23,9 @@ Cooperative:
 
 [(Back to Top)](#)
 
-## Isthmus Scramble
+## Isthmus Scramble (4vs4)
 
-Teams:
+Versus:
 
 - [Isthmus_Scramble_4vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4.scx)
 
@@ -42,9 +40,9 @@ Cooperative:
 
 [(Back to Top)](#)
 
-## Stratal Concourse
+## Stratal Concourse (4vs4)
 
-Teams:
+Versus:
 
 - [Stratal_Concourse_4vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4.scx)
 
