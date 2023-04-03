@@ -8,7 +8,8 @@ Maps:
 - [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
 - [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
 
----
+To play a map, simply download its .scx file and place it somewhere in your StarCraft maps folder, which is typically `C:\Program Files (x86)\StarCraft\Maps\`.
+
 ---
 
 ## Intertwined Platforms (2vs2)
