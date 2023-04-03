@@ -8,6 +8,8 @@ This repository contains my custom-made maps for the StarCraft Remastered video 
 
 ## Intertwined Platforms (2vs2)
 
+![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png)
+
 Versus:
 
 - [Intertwined_Platforms_2vs2.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2.scx)
@@ -19,11 +21,11 @@ Cooperative:
 - [Intertwined_Platforms_2vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2_Computers.scx)
 - [Intertwined_Platforms_1vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Intertwined_Platforms/Intertwined_Platforms_1vs3_Computers.scx)
 
-![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png)
-
 [(Back to Top)](#)
 
 ## Isthmus Scramble (4vs4)
+
+![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png)
 
 Versus:
 
@@ -36,11 +38,11 @@ Cooperative:
 - [Isthmus_Scramble_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs3_Computers.scx)
 - [Isthmus_Scramble_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4_Computers.scx)
 
-![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png)
-
 [(Back to Top)](#)
 
 ## Stratal Concourse (4vs4)
+
+![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png)
 
 Versus:
 
@@ -52,8 +54,6 @@ Cooperative:
 - [Stratal_Concourse_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs2_Computers.scx)
 - [Stratal_Concourse_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs3_Computers.scx)
 - [Stratal_Concourse_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4_Computers.scx)
-
-![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png)
 
 [(Back to Top)](#)
 
