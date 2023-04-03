@@ -2,9 +2,14 @@
 
 This repository contains my custom-made maps for the StarCraft Remastered video game by Blizzard Entertainment. Maps used in professional leagues are typically designed for 1vs1 games, whereas my maps focus on 2vs2, 3vs3, and 4vs4 team games.
 
+Maps:
+
 - [Intertwined Platforms (2vs2)](#intertwined-platforms-2vs2)
 - [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
 - [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
+
+---
+---
 
 ## Intertwined Platforms (2vs2)
 
@@ -23,6 +28,8 @@ Cooperative:
 
 [(Back to Top)](#)
 
+---
+
 ## Isthmus Scramble (4vs4)
 
 ![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png)
@@ -40,6 +47,8 @@ Cooperative:
 
 [(Back to Top)](#)
 
+---
+
 ## Stratal Concourse (4vs4)
 
 ![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png)
@@ -56,6 +65,8 @@ Cooperative:
 - [Stratal_Concourse_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4_Computers.scx)
 
 [(Back to Top)](#)
+
+---
 
 ## License
 
