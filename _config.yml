@@ -1,6 +1,6 @@
 remote_theme: pages-themes/midnight
 plugins:
 - jekyll-remote-theme
-title: "StarCraft Maps"
+title: "acodcha's StarCraft Maps"
 description: "Custom-made maps for the StarCraft Remastered video game by Blizzard Entertainment"
 show_downloads: false
