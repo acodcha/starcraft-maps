@@ -6,6 +6,7 @@ Maps:
 
 - [Intertwined Platforms (2vs2)](#intertwined-platforms-2vs2)
 - [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
+- [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
 - [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
 
 To play a map, simply download its .scx file and place it somewhere in your StarCraft maps folder, which is typically `C:\Program Files (x86)\StarCraft\Maps\`.
@@ -45,6 +46,31 @@ Cooperative:
 - [Isthmus_Scramble_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs2_Computers.scx)
 - [Isthmus_Scramble_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs3_Computers.scx)
 - [Isthmus_Scramble_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4_Computers.scx)
+
+[(Back to Top)](#)
+
+---
+
+## Luxuriant Sanctuary (4vs4)
+
+![Luxuriant Sanctuary](maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary.png)
+
+Versus:
+
+- [Luxuriant_Sanctuary_4vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_4vs4.scx)
+- [Luxuriant_Sanctuary_3vs5.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_3vs5.scx)
+- [Luxuriant_Sanctuary_2vs6.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_2vs6.scx)
+- [Luxuriant_Sanctuary_1vs7.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_1vs7.scx)
+
+Cooperative:
+
+- [Luxuriant_Sanctuary_7vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_7vs1_Computer.scx)
+- [Luxuriant_Sanctuary_6vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_6vs2_Computers.scx)
+- [Luxuriant_Sanctuary_5vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_5vs3_Computers.scx)
+- [Luxuriant_Sanctuary_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_4vs4_Computers.scx)
+- [Luxuriant_Sanctuary_3vs5_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_3vs5_Computers.scx)
+- [Luxuriant_Sanctuary_2vs6_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_2vs6_Computers.scx)
+- [Luxuriant_Sanctuary_1vs7_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_1vs7_Computers.scx)
 
 [(Back to Top)](#)
 
