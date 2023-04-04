@@ -9,7 +9,7 @@ Maps:
 - [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
 - [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
 
-To play a map, simply download its .scx file and place it anywhere in your StarCraft maps directory, which is typically `C:\Program Files (x86)\StarCraft\Maps\`.
+To play a map, simply download its .scx file and place it anywhere in your StarCraft maps directory, which is typically: `C:\Program Files (x86)\StarCraft\Maps\`
 
 ---
 
