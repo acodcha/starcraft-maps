@@ -13,6 +13,7 @@ Standard Maps:
 
 Scenario Maps:
 
+- [Terran Obstacle Course](#terran-obstacle-course)
 - [Zerg Obstacle Course](#zerg-obstacle-course)
 
 ---
@@ -104,6 +105,18 @@ Cooperative:
 ---
 
 # Scenario Maps
+
+---
+
+## Terran Obstacle Course
+
+![Terran_Obstacle_Course](maps/Terran_Obstacle_Course/Terran_Obstacle_Course.png)
+
+1 to 7 players. Recruit additional forces into your Terran squad and be the first to reach the end of the obstacle course!
+
+- [Terran_Obstacle_Course.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Terran_Obstacle_Course/Terran_Obstacle_Course.scx)
+
+[(Back to Top)](#)
 
 ---
 
