@@ -24,7 +24,7 @@ Scenario Maps:
 
 ## Intertwined Platforms (2vs2)
 
-![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png)
+![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png?)
 
 Versus:
 
@@ -43,7 +43,7 @@ Cooperative:
 
 ## Isthmus Scramble (4vs4)
 
-![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png)
+![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png?)
 
 Versus:
 
@@ -62,7 +62,7 @@ Cooperative:
 
 ## Luxuriant Sanctuary (4vs4)
 
-![Luxuriant_Sanctuary](maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary.png)
+![Luxuriant_Sanctuary](maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary.png?)
 
 Versus:
 
@@ -87,7 +87,7 @@ Cooperative:
 
 ## Stratal Concourse (4vs4)
 
-![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png)
+![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png?)
 
 Versus:
 
@@ -110,7 +110,7 @@ Cooperative:
 
 ## Terran Obstacle Course
 
-![Terran_Obstacle_Course](maps/Terran_Obstacle_Course/Terran_Obstacle_Course.png)
+![Terran_Obstacle_Course](maps/Terran_Obstacle_Course/Terran_Obstacle_Course.png?)
 
 1 to 7 players. Recruit additional forces into your Terran squad and be the first to reach the end of the obstacle course!
 
@@ -122,7 +122,7 @@ Cooperative:
 
 ## Zerg Obstacle Course
 
-![Zerg_Obstacle_Course](maps/Zerg_Obstacle_Course/Zerg_Obstacle_Course.png)
+![Zerg_Obstacle_Course](maps/Zerg_Obstacle_Course/Zerg_Obstacle_Course.png?)
 
 1 to 7 players. Morph into increasingly powerful Zerg strains and be the first to reach the end of the obstacle course!
 
