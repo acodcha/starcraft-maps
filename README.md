@@ -6,6 +6,7 @@ To play a map, simply download its .scx file and place it anywhere in your StarC
 
 Standard Maps:
 
+- [Beltway Blitz (3vs3)](#beltway-blitz-3vs3)
 - [Intertwined Platforms (2vs2)](#intertwined-platforms-2vs2)
 - [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
 - [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
@@ -19,6 +20,24 @@ Scenario Maps:
 ---
 
 # Standard Maps
+
+---
+
+## Beltway Blitz (3vs3)
+
+![Beltway_Blitz](maps/Beltway_Blitz/Beltway_Blitz.png?)
+
+Versus:
+
+- [Beltway_Blitz_3vs3.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs3.scx)
+
+Cooperative:
+
+- [Beltway_Blitz_3vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs1_Computer.scx)
+- [Beltway_Blitz_3vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs2_Computers.scx)
+- [Beltway_Blitz_3vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs3_Computers.scx)
+
+[(Back to Top)](#)
 
 ---
 
