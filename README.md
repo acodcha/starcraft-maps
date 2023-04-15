@@ -7,6 +7,7 @@ To play a map, simply download its .scx file and place it anywhere in your StarC
 Standard Maps:
 
 - [Beltway Blitz (3vs3)](#beltway-blitz-3vs3)
+- [Frigid Basin (3vs3)](#frigid-basin-3vs3)
 - [Intertwined Platforms (2vs2)](#intertwined-platforms-2vs2)
 - [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
 - [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
@@ -36,6 +37,28 @@ Cooperative:
 - [Beltway_Blitz_3vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs1_Computer.scx)
 - [Beltway_Blitz_3vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs2_Computers.scx)
 - [Beltway_Blitz_3vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs3_Computers.scx)
+
+[(Back to Top)](#)
+
+---
+
+## Frigid Basin (3vs3)
+
+![Frigid Basin](maps/Frigid_Basin/Frigid_Basin.png?)
+
+Versus:
+
+- [Frigid_Basin_3vs3.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_3vs3.scx)
+- [Frigid_Basin_2vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_2vs4.scx)
+- [Frigid_Basin_1vs5.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_1vs5.scx)
+
+Cooperative:
+
+- [Frigid_Basin_5vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_5vs1_Computer.scx)
+- [Frigid_Basin_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_4vs2_Computers.scx)
+- [Frigid_Basin_3vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_3vs3_Computers.scx)
+- [Frigid_Basin_2vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_2vs4_Computers.scx)
+- [Frigid_Basin_1vs5_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_1vs5_Computers.scx)
 
 [(Back to Top)](#)
 
