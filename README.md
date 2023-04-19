@@ -4,23 +4,23 @@ This repository contains my custom-made maps for the StarCraft Remastered video 
 
 To play a map, simply download its `.scx` file and place it anywhere in your StarCraft maps directory, which is typically: `C:\Program Files (x86)\StarCraft\Maps\`
 
-[2vs2 Maps](#2vs2-maps):
+2vs2 Maps:
 
 - [Intertwined Platforms](#intertwined-platforms)
 
-[3vs3 Maps](#3vs3-maps):
+3vs3 Maps:
 
 - [Beltway Blitz](#beltway-blitz)
 - [Frigid Basin](#frigid-basin)
 - [Magmatic Delve](#magmatic-delve)
 
-[4vs4 Maps](#4vs4-maps):
+4vs4 Maps:
 
 - [Isthmus Scramble](#isthmus-scramble)
 - [Luxuriant Sanctuary](#luxuriant-sanctuary)
 - [Stratal Concourse](#stratal-concourse)
 
-[Scenario Maps](#scenario-maps):
+Scenario Maps:
 
 - [Terran Obstacle Course](#terran-obstacle-course)
 - [Zerg Obstacle Course](#zerg-obstacle-course)
@@ -28,10 +28,6 @@ To play a map, simply download its `.scx` file and place it anywhere in your Sta
 ---
 
 # 2vs2 Maps
-
-- [Intertwined Platforms](#intertwined-platforms)
-
-[(Back to Top)](#)
 
 ---
 
@@ -55,12 +51,6 @@ Cooperative:
 ---
 
 # 3vs3 Maps
-
-- [Beltway Blitz](#beltway-blitz)
-- [Frigid Basin](#frigid-basin)
-- [Magmatic Delve](#magmatic-delve)
-
-[(Back to Top)](#)
 
 ---
 
@@ -123,12 +113,6 @@ Cooperative:
 ---
 
 # 4vs4 Maps
-
-- [Isthmus Scramble](#isthmus-scramble)
-- [Luxuriant Sanctuary](#luxuriant-sanctuary)
-- [Stratal Concourse](#stratal-concourse)
-
-[(Back to Top)](#)
 
 ---
 
@@ -196,11 +180,6 @@ Cooperative:
 ---
 
 # Scenario Maps
-
-- [Terran Obstacle Course](#terran-obstacle-course)
-- [Zerg Obstacle Course](#zerg-obstacle-course)
-
-[(Back to Top)](#)
 
 ---
 
