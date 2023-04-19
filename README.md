@@ -2,24 +2,25 @@
 
 This repository contains my custom-made maps for the StarCraft Remastered video game by Blizzard Entertainment. Maps used in professional leagues are typically designed for 1vs1 games, whereas my maps focus on 2vs2, 3vs3, and 4vs4 team games.
 
-To play a map, simply download its .scx file and place it anywhere in your StarCraft maps directory, which is typically: `C:\Program Files (x86)\StarCraft\Maps\`
+To play a map, simply download its `.scx` file and place it anywhere in your StarCraft maps directory, which is typically: `C:\Program Files (x86)\StarCraft\Maps\`
 
-2vs2 Maps:
+[2vs2 Maps](#2vs2-maps):
 
-- [Intertwined Platforms (2vs2)](#intertwined-platforms-2vs2)
+- [Intertwined Platforms](#intertwined-platforms)
 
-3vs3 Maps:
+[3vs3 Maps](#3vs3-maps):
 
-- [Beltway Blitz (3vs3)](#beltway-blitz-3vs3)
-- [Frigid Basin (3vs3)](#frigid-basin-3vs3)
+- [Beltway Blitz](#beltway-blitz)
+- [Frigid Basin](#frigid-basin)
+- [Magmatic Delve](#magmatic-delve)
 
-4vs4 Maps:
+[4vs4 Maps](#4vs4-maps):
 
-- [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
-- [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
-- [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
+- [Isthmus Scramble](#isthmus-scramble)
+- [Luxuriant Sanctuary](#luxuriant-sanctuary)
+- [Stratal Concourse](#stratal-concourse)
 
-Scenario Maps:
+[Scenario Maps](#scenario-maps):
 
 - [Terran Obstacle Course](#terran-obstacle-course)
 - [Zerg Obstacle Course](#zerg-obstacle-course)
@@ -28,9 +29,13 @@ Scenario Maps:
 
 # 2vs2 Maps
 
+- [Intertwined Platforms](#intertwined-platforms)
+
+[(Back to Top)](#)
+
 ---
 
-## Intertwined Platforms (2vs2)
+## Intertwined Platforms
 
 ![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png?)
 
@@ -51,9 +56,15 @@ Cooperative:
 
 # 3vs3 Maps
 
+- [Beltway Blitz](#beltway-blitz)
+- [Frigid Basin](#frigid-basin)
+- [Magmatic Delve](#magmatic-delve)
+
+[(Back to Top)](#)
+
 ---
 
-## Beltway Blitz (3vs3)
+## Beltway Blitz
 
 ![Beltway_Blitz](maps/Beltway_Blitz/Beltway_Blitz.png?)
 
@@ -71,7 +82,7 @@ Cooperative:
 
 ---
 
-## Frigid Basin (3vs3)
+## Frigid Basin
 
 ![Frigid Basin](maps/Frigid_Basin/Frigid_Basin.png?)
 
@@ -93,11 +104,35 @@ Cooperative:
 
 ---
 
-# 4vs4 Maps
+## Magmatic Delve
+
+![Magmatic Delve](maps/Magmatic_Delve/Magmatic_Delve.png?)
+
+Versus:
+
+- [Magmatic_Delve_3vs3.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs3.scx)
+
+Cooperative:
+
+- [Magmatic_Delve_3vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs1_Computer.scx)
+- [Magmatic_Delve_3vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs2_Computers.scx)
+- [Magmatic_Delve_3vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs3_Computers.scx)
+
+[(Back to Top)](#)
 
 ---
 
-## Isthmus Scramble (4vs4)
+# 4vs4 Maps
+
+- [Isthmus Scramble](#isthmus-scramble)
+- [Luxuriant Sanctuary](#luxuriant-sanctuary)
+- [Stratal Concourse](#stratal-concourse)
+
+[(Back to Top)](#)
+
+---
+
+## Isthmus Scramble
 
 ![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png?)
 
@@ -116,7 +151,7 @@ Cooperative:
 
 ---
 
-## Luxuriant Sanctuary (4vs4)
+## Luxuriant Sanctuary
 
 ![Luxuriant_Sanctuary](maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary.png?)
 
@@ -141,7 +176,7 @@ Cooperative:
 
 ---
 
-## Stratal Concourse (4vs4)
+## Stratal Concourse
 
 ![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png?)
 
@@ -161,6 +196,11 @@ Cooperative:
 ---
 
 # Scenario Maps
+
+- [Terran Obstacle Course](#terran-obstacle-course)
+- [Zerg Obstacle Course](#zerg-obstacle-course)
+
+[(Back to Top)](#)
 
 ---
 
