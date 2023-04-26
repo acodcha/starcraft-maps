@@ -13,6 +13,7 @@ To play a map, simply download its `.scx` file and place it anywhere in your Sta
 - [Beltway Blitz](#beltway-blitz)
 - [Frigid Basin](#frigid-basin)
 - [Magmatic Delve](#magmatic-delve)
+- [Motley Turnpike](#motley-turnpike)
 
 4vs4 Maps:
 
@@ -107,6 +108,28 @@ Cooperative:
 - [Magmatic_Delve_3vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs1_Computer.scx)
 - [Magmatic_Delve_3vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs2_Computers.scx)
 - [Magmatic_Delve_3vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs3_Computers.scx)
+
+[(Back to Top)](#)
+
+---
+
+## Motley Turnpike
+
+![Motley Turnpike](maps/Motley_Turnpike/Motley_Turnpike.png?)
+
+Versus:
+
+- [Motley_Turnpike_3vs3.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_3vs3.scx)
+- [Motley_Turnpike_2vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_2vs4.scx)
+- [Motley_Turnpike_1vs5.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_1vs5.scx)
+
+Cooperative:
+
+- [Motley_Turnpike_5vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_5vs1_Computer.scx)
+- [Motley_Turnpike_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_4vs2_Computers.scx)
+- [Motley_Turnpike_3vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_3vs3_Computers.scx)
+- [Motley_Turnpike_2vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_2vs4_Computers.scx)
+- [Motley_Turnpike_1vs5_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_1vs5_Computers.scx)
 
 [(Back to Top)](#)
 
