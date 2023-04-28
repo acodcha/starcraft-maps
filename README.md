@@ -17,6 +17,7 @@ To play a map, simply download its `.scx` file and place it anywhere in your Sta
 
 4vs4 Maps:
 
+- [Azurean Reliquary](#azurean-reliquary)
 - [Isthmus Scramble](#isthmus-scramble)
 - [Luxuriant Sanctuary](#luxuriant-sanctuary)
 - [Stratal Concourse](#stratal-concourse)
@@ -75,7 +76,7 @@ Cooperative:
 
 ## Frigid Basin
 
-![Frigid Basin](maps/Frigid_Basin/Frigid_Basin.png?)
+![Frigid_Basin](maps/Frigid_Basin/Frigid_Basin.png?)
 
 Versus:
 
@@ -97,7 +98,7 @@ Cooperative:
 
 ## Magmatic Delve
 
-![Magmatic Delve](maps/Magmatic_Delve/Magmatic_Delve.png?)
+![Magmatic_Delve](maps/Magmatic_Delve/Magmatic_Delve.png?)
 
 Versus:
 
@@ -115,7 +116,7 @@ Cooperative:
 
 ## Motley Turnpike
 
-![Motley Turnpike](maps/Motley_Turnpike/Motley_Turnpike.png?)
+![Motley_Turnpike](maps/Motley_Turnpike/Motley_Turnpike.png?)
 
 Versus:
 
@@ -136,6 +137,25 @@ Cooperative:
 ---
 
 # 4vs4 Maps
+
+---
+
+## Azurean Reliquary
+
+![Azurean_Reliquary](maps/Azurean_Reliquary/Azurean_Reliquary.png?)
+
+Versus:
+
+- [Azurean_Reliquary_4vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Azurean_Reliquary/Azurean_Reliquary_4vs4.scx)
+
+Cooperative:
+
+- [Azurean_Reliquary_4vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Azurean_Reliquary/Azurean_Reliquary_4vs1_Computer.scx)
+- [Azurean_Reliquary_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Azurean_Reliquary/Azurean_Reliquary_4vs2_Computers.scx)
+- [Azurean_Reliquary_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Azurean_Reliquary/Azurean_Reliquary_4vs3_Computers.scx)
+- [Azurean_Reliquary_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Azurean_Reliquary/Azurean_Reliquary_4vs4_Computers.scx)
+
+[(Back to Top)](#)
 
 ---
 
