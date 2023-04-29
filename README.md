@@ -5,17 +5,17 @@ This repository contains my custom-made maps for the StarCraft Brood War and Sta
 To play a map, simply download its `.scx` file and place it anywhere in your StarCraft maps directory, which is typically `C:\Program Files (x86)\StarCraft\Maps\`. When creating a game, select the `Use Map Settings` option; otherwise, player starting locations may be randomized rather than team-based.
 
 - [2vs2 Maps](#2vs2-maps)
-  - [Intertwined Platforms](#intertwined-platforms-2vs2)
+  - [Intertwined Platforms (2vs2)](#intertwined-platforms-2vs2)
 - [3vs3 Maps](#3vs3-maps)
-  - [Beltway Blitz](#beltway-blitz-3vs3)
-  - [Frigid Basin](#frigid-basin-3vs3)
-  - [Magmatic Delve](#magmatic-delve-3vs3)
-  - [Motley Turnpike](#motley-turnpike-3vs3)
+  - [Beltway Blitz (3vs3)](#beltway-blitz-3vs3)
+  - [Frigid Basin (3vs3)](#frigid-basin-3vs3)
+  - [Magmatic Delve (3vs3)](#magmatic-delve-3vs3)
+  - [Motley Turnpike (3vs3)](#motley-turnpike-3vs3)
 - [4vs4 Maps](#4vs4-maps)
-  - [Azurean Reliquary](#azurean-reliquary-4vs4)
-  - [Isthmus Scramble](#isthmus-scramble-4vs4)
-  - [Luxuriant Sanctuary](#luxuriant-sanctuary-4vs4)
-  - [Stratal Concourse](#stratal-concourse-4vs4)
+  - [Azurean Reliquary (4vs4)](#azurean-reliquary-4vs4)
+  - [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
+  - [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
+  - [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
 - [Scenario Maps](#scenario-maps)
   - [Terran Obstacle Course](#terran-obstacle-course)
   - [Zerg Obstacle Course](#zerg-obstacle-course)
@@ -24,7 +24,7 @@ To play a map, simply download its `.scx` file and place it anywhere in your Sta
 
 # 2vs2 Maps
 
-- [Intertwined Platforms](#intertwined-platforms-2vs2)
+- [Intertwined Platforms (2vs2)](#intertwined-platforms-2vs2)
 
 [(Back to Top)](#)
 
@@ -34,7 +34,7 @@ To play a map, simply download its `.scx` file and place it anywhere in your Sta
 
 ![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png?)
 
-Four players squeezed onto a tiny 64x64 map! The teams are the two Northeast players versus the two Southwest players. Each base features a protected expansion. Neutral structures must be destroyed to gain access to the central region. The distance to your opponents' bases is very short, so be prepared for quick aggression!
+Four players squeezed onto a tiny map! The teams are the two Northeast players versus the two Southwest players. Each base features a protected expansion. Neutral structures must be destroyed to gain access to the central region. The distance to your opponents' bases is very short, so be prepared for quick aggression!
 
 Compatibility: StarCraft Brood War and StarCraft Remastered.
 
@@ -55,10 +55,10 @@ Cooperative:
 
 # 3vs3 Maps
 
-- [Beltway Blitz](#beltway-blitz-3vs3)
-- [Frigid Basin](#frigid-basin-3vs3)
-- [Magmatic Delve](#magmatic-delve-3vs3)
-- [Motley Turnpike](#motley-turnpike-3vs3)
+- [Beltway Blitz (3vs3)](#beltway-blitz-3vs3)
+- [Frigid Basin (3vs3)](#frigid-basin-3vs3)
+- [Magmatic Delve (3vs3)](#magmatic-delve-3vs3)
+- [Motley Turnpike (3vs3)](#motley-turnpike-3vs3)
 
 [(Back to Top)](#)
 
@@ -146,10 +146,10 @@ Cooperative:
 
 # 4vs4 Maps
 
-- [Azurean Reliquary](#azurean-reliquary-4vs4)
-- [Isthmus Scramble](#isthmus-scramble-4vs4)
-- [Luxuriant Sanctuary](#luxuriant-sanctuary-4vs4)
-- [Stratal Concourse](#stratal-concourse-4vs4)
+- [Azurean Reliquary (4vs4)](#azurean-reliquary-4vs4)
+- [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
+- [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
+- [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
 
 [(Back to Top)](#)
 
