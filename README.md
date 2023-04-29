@@ -1,8 +1,8 @@
 [View on GitHub.io](https://acodcha.github.io/starcraft-maps) · [View on GitHub.com](https://github.com/acodcha/starcraft-maps)
 
-This repository contains my custom-made maps for the StarCraft Remastered video game by Blizzard Entertainment. Maps used in professional leagues are typically designed for 1vs1 games, whereas my maps focus on 2vs2, 3vs3, and 4vs4 team games.
+This repository contains my custom-made maps for the StarCraft Brood War and StarCraft Remastered video games by Blizzard Entertainment. Maps used in professional leagues are typically designed for 1vs1 and 2vs2 games, whereas my maps focus on 3vs3 and 4vs4 games.
 
-To play a map, simply download its `.scx` file and place it anywhere in your StarCraft maps directory, which is typically: `C:\Program Files (x86)\StarCraft\Maps\`
+To play a map, simply download its `.scx` file and place it anywhere in your StarCraft maps directory, which is typically `C:\Program Files (x86)\StarCraft\Maps\`. When creating a game, select the `Use Map Settings` option; otherwise, player starting locations may be randomized rather than team-based.
 
 2vs2 Maps:
 
@@ -36,6 +36,10 @@ Scenario Maps:
 ## Intertwined Platforms
 
 ![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png?)
+
+Four players squeezed onto a tiny 64x64 map! The teams are the two Northeast players versus the two Southwest players. Each base features a protected expansion. Neutral structures must be destroyed to gain access to the central region. The distance to your opponents' bases is very short, so be prepared for quick aggression!
+
+Compatibility: StarCraft Brood War and StarCraft Remastered.
 
 Versus:
 
@@ -250,4 +254,4 @@ Cooperative:
 
 ---
 
-This work is maintained by Alexandre Coderre-Chabot (<https://github.com/acodcha>) and licensed under the Creative Commons Attribution 4.0 International license. For more details, see the [LICENSE](https://github.com/acodcha/starcraft-maps/blob/main/LICENSE) file or <https://creativecommons.org/licenses/by/4.0>. This work is based on the StarCraft Remastered video game by Blizzard Entertainment. The contents, copyrights, and trademarks of everything involving StarCraft Remastered are exclusively held by Blizzard Entertainment; I make no claim to any of these in any way. All maps are made using either StarCraft Remastered's native StarEdit map editor or the ScmDraft 2 map editor by Stormcoast Fortress (<http://www.stormcoast-fortress.net/cntt/software/scmdraft>).
+This work is maintained by Alexandre Coderre-Chabot (<https://github.com/acodcha>) and licensed under the Creative Commons Attribution 4.0 International license. For more details, see the [LICENSE](https://github.com/acodcha/starcraft-maps/blob/main/LICENSE) file or <https://creativecommons.org/licenses/by/4.0>. This work is based on the StarCraft Brood War and StarCraft Remastered video games by Blizzard Entertainment. The contents, copyrights, and trademarks of everything involving StarCraft, StarCraft Brood War, and StarCraft Remastered are exclusively held by Blizzard Entertainment; I make no claim to any of these in any way. All maps are made using the ScmDraft 2 map editor by Stormcoast Fortress (<http://www.stormcoast-fortress.net/cntt/software/scmdraft>).
