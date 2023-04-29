@@ -34,9 +34,9 @@ To play a map, simply download its `.scx` file and place it anywhere in your Sta
 
 ![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png?)
 
-Four players squeezed onto a tiny map! The teams are the two Northeast players versus the two Southwest players. Each base features a protected expansion. Neutral structures must be destroyed to gain access to the central region. The distance to your opponents' bases is very short, so be prepared for quick aggression!
+Four players squeezed onto a tiny map! The teams are the two Northeast players versus the two Southwest players. Each player's base features a protected expansion. Neutral structures must be destroyed to gain access to the central region. The distance to your opponents' bases is very short, so be prepared for quick aggression!
 
-Compatibility: StarCraft Brood War and StarCraft Remastered.
+Compatible with either StarCraft Brood War or StarCraft Remastered.
 
 Versus:
 
@@ -68,6 +68,10 @@ Cooperative:
 
 ![Beltway_Blitz](maps/Beltway_Blitz/Beltway_Blitz.png?)
 
+Six players squeezed onto a tiny map! The teams are the three West players versus the three East players. Each team features a large base shared by its three players. Each shared base contains three expansions; one for each player, though some expansions are more exposed than others! Two bridges link your team's base to the opposing team's base, though neutral structures must be destroyed to cross the bridges.
+
+Compatible with either StarCraft Brood War or StarCraft Remastered.
+
 Versus:
 
 - [Beltway_Blitz_3vs3.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs3.scx)
@@ -85,6 +89,8 @@ Cooperative:
 ## Frigid Basin (3vs3)
 
 ![Frigid_Basin](maps/Frigid_Basin/Frigid_Basin.png?)
+
+Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
 
 Versus:
 
@@ -108,6 +114,8 @@ Cooperative:
 
 ![Magmatic_Delve](maps/Magmatic_Delve/Magmatic_Delve.png?)
 
+Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
+
 Versus:
 
 - [Magmatic_Delve_3vs3.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs3.scx)
@@ -125,6 +133,8 @@ Cooperative:
 ## Motley Turnpike (3vs3)
 
 ![Motley_Turnpike](maps/Motley_Turnpike/Motley_Turnpike.png?)
+
+Compatible with either StarCraft Brood War or StarCraft Remastered.
 
 Versus:
 
@@ -159,6 +169,8 @@ Cooperative:
 
 ![Azurean_Reliquary](maps/Azurean_Reliquary/Azurean_Reliquary.png?)
 
+Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
+
 Versus:
 
 - [Azurean_Reliquary_4vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Azurean_Reliquary/Azurean_Reliquary_4vs4.scx)
@@ -178,6 +190,10 @@ Cooperative:
 
 ![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png?)
 
+Eight players squeezed onto a tiny map! The teams are the four Northeast players versus the four Southwest players. Each team features a large base shared by its four players. Each shared base contains only two expansions. Your team's base is linked to the opposing team's base via one wide bridge and two narrow bridges, though neutral structures must be destroyed to cross the bridges.
+
+Compatible with either StarCraft Brood War or StarCraft Remastered.
+
 Versus:
 
 - [Isthmus_Scramble_4vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4.scx)
@@ -196,6 +212,8 @@ Cooperative:
 ## Luxuriant Sanctuary (4vs4)
 
 ![Luxuriant_Sanctuary](maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary.png?)
+
+Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
 
 Versus:
 
@@ -221,6 +239,8 @@ Cooperative:
 ## Stratal Concourse (4vs4)
 
 ![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png?)
+
+Compatible with either StarCraft Brood War or StarCraft Remastered.
 
 Versus:
 
@@ -252,6 +272,8 @@ Cooperative:
 
 1 to 7 players. Recruit additional forces into your Terran squad and be the first to reach the end of the obstacle course!
 
+Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
+
 - [Terran_Obstacle_Course.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Terran_Obstacle_Course/Terran_Obstacle_Course.scx)
 
 [(Back to Scenario Maps)](#scenario-maps)
@@ -263,6 +285,8 @@ Cooperative:
 ![Zerg_Obstacle_Course](maps/Zerg_Obstacle_Course/Zerg_Obstacle_Course.png?)
 
 1 to 7 players. Morph into increasingly powerful Zerg strains and be the first to reach the end of the obstacle course!
+
+Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
 
 - [Zerg_Obstacle_Course.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Zerg_Obstacle_Course/Zerg_Obstacle_Course.scx)
 
