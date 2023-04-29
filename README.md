@@ -4,36 +4,33 @@ This repository contains my custom-made maps for the StarCraft Brood War and Sta
 
 To play a map, simply download its `.scx` file and place it anywhere in your StarCraft maps directory, which is typically `C:\Program Files (x86)\StarCraft\Maps\`. When creating a game, select the `Use Map Settings` option; otherwise, player starting locations may be randomized rather than team-based.
 
-2vs2 Maps:
-
-- [Intertwined Platforms](#intertwined-platforms)
-
-3vs3 Maps:
-
-- [Beltway Blitz](#beltway-blitz)
-- [Frigid Basin](#frigid-basin)
-- [Magmatic Delve](#magmatic-delve)
-- [Motley Turnpike](#motley-turnpike)
-
-4vs4 Maps:
-
-- [Azurean Reliquary](#azurean-reliquary)
-- [Isthmus Scramble](#isthmus-scramble)
-- [Luxuriant Sanctuary](#luxuriant-sanctuary)
-- [Stratal Concourse](#stratal-concourse)
-
-Scenario Maps:
-
-- [Terran Obstacle Course](#terran-obstacle-course)
-- [Zerg Obstacle Course](#zerg-obstacle-course)
+- [2vs2 Maps](#2vs2-maps)
+  - [Intertwined Platforms](#intertwined-platforms-2vs2)
+- [3vs3 Maps](#3vs3-maps)
+  - [Beltway Blitz](#beltway-blitz-3vs3)
+  - [Frigid Basin](#frigid-basin-3vs3)
+  - [Magmatic Delve](#magmatic-delve-3vs3)
+  - [Motley Turnpike](#motley-turnpike-3vs3)
+- [4vs4 Maps](#4vs4-maps)
+  - [Azurean Reliquary](#azurean-reliquary-4vs4)
+  - [Isthmus Scramble](#isthmus-scramble-4vs4)
+  - [Luxuriant Sanctuary](#luxuriant-sanctuary-4vs4)
+  - [Stratal Concourse](#stratal-concourse-4vs4)
+- [Scenario Maps](#scenario-maps)
+  - [Terran Obstacle Course](#terran-obstacle-course)
+  - [Zerg Obstacle Course](#zerg-obstacle-course)
 
 ---
 
 # 2vs2 Maps
 
+- [Intertwined Platforms](#intertwined-platforms-2vs2)
+
+[(Back to Top)](#)
+
 ---
 
-## Intertwined Platforms
+## Intertwined Platforms (2vs2)
 
 ![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png?)
 
@@ -52,15 +49,22 @@ Cooperative:
 - [Intertwined_Platforms_2vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Intertwined_Platforms/Intertwined_Platforms_2vs2_Computers.scx)
 - [Intertwined_Platforms_1vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Intertwined_Platforms/Intertwined_Platforms_1vs3_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 2vs2 Maps)](#2vs2-maps)
 
 ---
 
 # 3vs3 Maps
 
+- [Beltway Blitz](#beltway-blitz-3vs3)
+- [Frigid Basin](#frigid-basin-3vs3)
+- [Magmatic Delve](#magmatic-delve-3vs3)
+- [Motley Turnpike](#motley-turnpike-3vs3)
+
+[(Back to Top)](#)
+
 ---
 
-## Beltway Blitz
+## Beltway Blitz (3vs3)
 
 ![Beltway_Blitz](maps/Beltway_Blitz/Beltway_Blitz.png?)
 
@@ -74,11 +78,11 @@ Cooperative:
 - [Beltway_Blitz_3vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs2_Computers.scx)
 - [Beltway_Blitz_3vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Beltway_Blitz/Beltway_Blitz_3vs3_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 3vs3 Maps)](#3vs3-maps)
 
 ---
 
-## Frigid Basin
+## Frigid Basin (3vs3)
 
 ![Frigid_Basin](maps/Frigid_Basin/Frigid_Basin.png?)
 
@@ -96,11 +100,11 @@ Cooperative:
 - [Frigid_Basin_2vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_2vs4_Computers.scx)
 - [Frigid_Basin_1vs5_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Frigid_Basin/Frigid_Basin_1vs5_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 3vs3 Maps)](#3vs3-maps)
 
 ---
 
-## Magmatic Delve
+## Magmatic Delve (3vs3)
 
 ![Magmatic_Delve](maps/Magmatic_Delve/Magmatic_Delve.png?)
 
@@ -114,11 +118,11 @@ Cooperative:
 - [Magmatic_Delve_3vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs2_Computers.scx)
 - [Magmatic_Delve_3vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Magmatic_Delve/Magmatic_Delve_3vs3_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 3vs3 Maps)](#3vs3-maps)
 
 ---
 
-## Motley Turnpike
+## Motley Turnpike (3vs3)
 
 ![Motley_Turnpike](maps/Motley_Turnpike/Motley_Turnpike.png?)
 
@@ -136,15 +140,22 @@ Cooperative:
 - [Motley_Turnpike_2vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_2vs4_Computers.scx)
 - [Motley_Turnpike_1vs5_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Motley_Turnpike/Motley_Turnpike_1vs5_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 3vs3 Maps)](#3vs3-maps)
 
 ---
 
 # 4vs4 Maps
 
+- [Azurean Reliquary](#azurean-reliquary-4vs4)
+- [Isthmus Scramble](#isthmus-scramble-4vs4)
+- [Luxuriant Sanctuary](#luxuriant-sanctuary-4vs4)
+- [Stratal Concourse](#stratal-concourse-4vs4)
+
+[(Back to Top)](#)
+
 ---
 
-## Azurean Reliquary
+## Azurean Reliquary (4vs4)
 
 ![Azurean_Reliquary](maps/Azurean_Reliquary/Azurean_Reliquary.png?)
 
@@ -159,11 +170,11 @@ Cooperative:
 - [Azurean_Reliquary_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Azurean_Reliquary/Azurean_Reliquary_4vs3_Computers.scx)
 - [Azurean_Reliquary_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Azurean_Reliquary/Azurean_Reliquary_4vs4_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 4vs4 Maps)](#4vs4-maps)
 
 ---
 
-## Isthmus Scramble
+## Isthmus Scramble (4vs4)
 
 ![Isthmus_Scramble](maps/Isthmus_Scramble/Isthmus_Scramble.png?)
 
@@ -178,11 +189,11 @@ Cooperative:
 - [Isthmus_Scramble_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs3_Computers.scx)
 - [Isthmus_Scramble_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Isthmus_Scramble/Isthmus_Scramble_4vs4_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 4vs4 Maps)](#4vs4-maps)
 
 ---
 
-## Luxuriant Sanctuary
+## Luxuriant Sanctuary (4vs4)
 
 ![Luxuriant_Sanctuary](maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary.png?)
 
@@ -203,11 +214,11 @@ Cooperative:
 - [Luxuriant_Sanctuary_2vs6_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_2vs6_Computers.scx)
 - [Luxuriant_Sanctuary_1vs7_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary_1vs7_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 4vs4 Maps)](#4vs4-maps)
 
 ---
 
-## Stratal Concourse
+## Stratal Concourse (4vs4)
 
 ![Stratal_Concourse](maps/Stratal_Concourse/Stratal_Concourse.png?)
 
@@ -222,11 +233,16 @@ Cooperative:
 - [Stratal_Concourse_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs3_Computers.scx)
 - [Stratal_Concourse_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4_Computers.scx)
 
-[(Back to Top)](#)
+[(Back to 4vs4 Maps)](#4vs4-maps)
 
 ---
 
 # Scenario Maps
+
+- [Terran Obstacle Course](#terran-obstacle-course)
+- [Zerg Obstacle Course](#zerg-obstacle-course)
+
+[(Back to Top)](#)
 
 ---
 
@@ -238,7 +254,7 @@ Cooperative:
 
 - [Terran_Obstacle_Course.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Terran_Obstacle_Course/Terran_Obstacle_Course.scx)
 
-[(Back to Top)](#)
+[(Back to Scenario Maps)](#scenario-maps)
 
 ---
 
@@ -250,7 +266,7 @@ Cooperative:
 
 - [Zerg_Obstacle_Course.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Zerg_Obstacle_Course/Zerg_Obstacle_Course.scx)
 
-[(Back to Top)](#)
+[(Back to Scenario Maps)](#scenario-maps)
 
 ---
 
