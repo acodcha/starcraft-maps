@@ -138,7 +138,7 @@ Cooperative:
 
 ![Motley_Turnpike](maps/Motley_Turnpike/Motley_Turnpike.png?)
 
-Bridges and roads! Six players compete on a standard-size map. The teams consist of the three northeast players versus the three southwest players. Each player's base features narrow bridges to two rear expansions and one forward expansion. However, the two rear expansions also feature wide bridges to neighboring players' expansions, which provide additional pathways to attack your opponents from the rear! Neutral structures must be destroyed to cross these rear wide bridges. Each player's forward expansion also features a wide bridge to the central region, which acts as a hub to each player's forward expansion. In each team of three, the two players on the flanks will need to carefully guard all pathways to their bases.
+Bridges and roads! Six players compete on a standard-size map. The teams consist of the three northwest players versus the three southeast players. Each player's base features narrow bridges to two rear expansions and one forward expansion. However, the two rear expansions also feature wide bridges to neighboring players' expansions, which provide additional pathways to attack your opponents from the rear! Neutral structures must be destroyed to cross these rear wide bridges. Each player's forward expansion also features a wide bridge to the central region, which acts as a hub to each player's forward expansion. In each team of three, the two players on the flanks will need to carefully guard all pathways to their bases.
 
 Compatible with either StarCraft Brood War or StarCraft Remastered.
 
