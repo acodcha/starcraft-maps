@@ -34,7 +34,7 @@ To play a map, simply download its `.scx` file and place it anywhere in your Sta
 
 ![Intertwined_Platforms](maps/Intertwined_Platforms/Intertwined_Platforms.png?)
 
-Four players are squeezed onto a tiny map! The teams consist of the north and east players versus the south and west players. Each player's base features a protected expansion. Neutral structures must be destroyed to gain access to the central region. The distance to your opponents' bases is very short, so be prepared for quick aggression!
+Four players are squeezed onto a tiny map! The teams consist of the north and east players versus the south and west players. Each player's base features a protected expansion. Neutral structures must be destroyed to gain access to the central platform. The distance to your opponents' bases is very short, so be prepared for quick aggression!
 
 Compatible with either StarCraft Brood War or StarCraft Remastered.
 
@@ -90,7 +90,7 @@ Cooperative:
 
 ![Frigid_Basin](maps/Frigid_Basin/Frigid_Basin.png?)
 
-Six players compete on a standard-size map. The teams consist of the three northeast players versus the three southwest players. Each player has their own base on high ground and access to a natural expansion on the low ground in front of their base. Additional expansions ring the map between the players' bases; though these expansions may appear sheltered, expansions that lie between enemy players are difficult to hold. A final set of expansions dot the high ground cliffs around the central basin from which this map derives its name; these expansions are the most exposed, but holding their high ground confers a significant positional advantage.
+Six players compete on a standard-size map. The teams consist of the three northeast players versus the three southwest players. Each player has their own base on high ground and access to a natural expansion on the low ground in front of their base. Additional expansions ring the map between the players' bases; though these expansions may appear sheltered, expansions that lie between enemy players are difficult to hold. A final set of expansions dot the high ground cliffs around the central basin; these expansions are the most exposed, but holding their high ground confers a significant positional advantage.
 
 Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
 
@@ -138,7 +138,7 @@ Cooperative:
 
 ![Motley_Turnpike](maps/Motley_Turnpike/Motley_Turnpike.png?)
 
-Bridges and roads! Six players compete on a standard-size map. The teams consist of the three northwest players versus the three southeast players. Each player's base features narrow bridges to two rear expansions and one forward expansion. However, the two rear expansions also feature wide bridges to neighboring players' expansions, which provide additional pathways to attack your opponents from the rear! Neutral structures must be destroyed to cross these rear wide bridges. Each player's forward expansion also features a wide bridge to the central region, which acts as a hub to each player's forward expansion. In each team of three, the two players on the flanks will need to carefully guard all pathways to their bases.
+Bridges and roads! Six players compete on a standard-size map. The teams consist of the three northwest players versus the three southeast players. Each player's base features narrow bridges to two rear expansions and one forward expansion. However, the two rear expansions also feature wide bridges to neighboring players' expansions, which provide additional pathways to attack your opponents from the rear! Neutral structures must be destroyed to cross these rear bridges. Each player's forward expansion also features a wide bridge to the central roadway, which acts as a hub to each player's forward expansion. In each team of three, the two players on the flanks will need to carefully guard all pathways to their bases.
 
 Compatible with either StarCraft Brood War or StarCraft Remastered.
 
@@ -175,7 +175,7 @@ Cooperative:
 
 ![Azurean_Reliquary](maps/Azurean_Reliquary/Azurean_Reliquary.png?)
 
-Shared bases! Eight players compete on a standard-size map. The teams consist of the four southwest players versus the four northeast players. Each team features a large high-ground base shared by its four players. Each shared base features sheltered rear expansions along with more exposed forward expansions on lower ground. Additional expansions line the edges of the central high ground reliquary from which this map derives its name. The reliquary is on high ground, so controlling it is key.
+Shared bases! Eight players compete on a standard-size map. The teams consist of the four southwest players versus the four northeast players. Each team features a large high-ground base shared by its four players. Each shared base features sheltered rear expansions along with more exposed forward expansions on lower ground. Additional expansions line the edges of the central reliquary. The reliquary is on high ground, so controlling it is key.
 
 Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
 
@@ -221,7 +221,7 @@ Cooperative:
 
 ![Luxuriant_Sanctuary](maps/Luxuriant_Sanctuary/Luxuriant_Sanctuary.png?)
 
-Eight players compete on a standard-size map. The teams consist of the four north players versus the four south players. Each player has their own base on high ground and access to a natural expansion on the low ground in front of their base. Additional expansions ring the map between the players' bases; though these expansions may appear sheltered, expansions that lie between enemy players are difficult to hold. A final set of expansions are scattered throughout the central sanctuary from which this map derives its name; these expansions are the most exposed, but holding the central sanctuary is strategically important as it acts as a hub to all other expansions.
+Eight players compete on a standard-size map. The teams consist of the four north players versus the four south players. Each player has their own base on high ground and access to a natural expansion on the low ground in front of their base. Additional expansions ring the map between the players' bases; though these expansions may appear sheltered, expansions that lie between enemy players are difficult to hold. A final set of expansions are scattered throughout the central sanctuary; these expansions are the most exposed, but holding the central sanctuary is strategically important as it acts as a hub to all other expansions.
 
 Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
 
