@@ -116,7 +116,7 @@ Cooperative:
 
 ![Magmatic_Delve](maps/Magmatic_Delve/Magmatic_Delve.png?)
 
-Shared bases! Six players compete on a standard-size map. The teams consist of the three northwest players versus the three southeast players. Each team features a large high-ground base shared by its three players. Each shared base features sheltered rear expansions along with more exposed forward expansions on lower ground. There are additional expansions in the northeast and southwest corners; these are reasonably sheltered though faraway and equidistant to both teams. Finally, there are additional expansions on the high grounds northeast and southwest of the central flats; these expansions are the most exposed, but confer a good defensive position. Control of the vast open central flats is key!
+Shared bases! Six players compete on a standard-size map. The teams consist of the three northeast players versus the three southwest players. Each team features a large high-ground base shared by its three players. The shared bases feature sheltered rear expansions along with more exposed forward expansions on lower ground. There are additional expansions in the northwest and southeast corners; these are reasonably sheltered though faraway and equidistant to both teams. Finally, there are additional expansions on the high grounds northwest and southeast of the central flats; these expansions are the most exposed, but confer a good defensive position. Control of the vast open central flats is key!
 
 Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
 
