@@ -16,6 +16,7 @@ To play a map, simply download its `.scx` file and place it anywhere in your Sta
   - [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
   - [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
   - [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
+  - [Sweltering Tar (4vs4)](#sweltering-tar-4vs4)
 - [Scenario Maps](#scenario-maps)
   - [Terran Obstacle Course](#terran-obstacle-course)
   - [Zerg Obstacle Course](#zerg-obstacle-course)
@@ -166,6 +167,7 @@ Cooperative:
 - [Isthmus Scramble (4vs4)](#isthmus-scramble-4vs4)
 - [Luxuriant Sanctuary (4vs4)](#luxuriant-sanctuary-4vs4)
 - [Stratal Concourse (4vs4)](#stratal-concourse-4vs4)
+- [Sweltering Tar (4vs4)](#sweltering-tar-4vs4)
 
 [(Back to Top)](#)
 
@@ -264,6 +266,35 @@ Cooperative:
 - [Stratal_Concourse_4vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs2_Computers.scx)
 - [Stratal_Concourse_4vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs3_Computers.scx)
 - [Stratal_Concourse_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Stratal_Concourse/Stratal_Concourse_4vs4_Computers.scx)
+
+[(Back to 4vs4 Maps)](#4vs4-maps)
+
+---
+
+## Sweltering Tar (4vs4)
+
+![Sweltering_Tar](maps/Sweltering_Tar/Sweltering_Tar.png?)
+
+Eight players compete on a standard-size map. The teams consist of the four east players versus the four west players. Each player has their own base on high ground and access to a protected rear expansion and a more exposed forward expansion on low ground. Additional sheltered expansions ring the map to the far north, far south, far east, and far west. The central valley is littered with tar pits and features a final set of four expansions, which are very exposed and difficult to hold.
+
+Compatible with StarCraft Remastered only. Not compatible with StarCraft Brood War.
+
+Versus:
+
+- [Sweltering_Tar_4vs4.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_4vs4.scx)
+- [Sweltering_Tar_3vs5.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_3vs5.scx)
+- [Sweltering_Tar_2vs6.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_2vs6.scx)
+- [Sweltering_Tar_1vs7.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_1vs7.scx)
+
+Cooperative:
+
+- [Sweltering_Tar_7vs1_Computer.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_7vs1_Computer.scx)
+- [Sweltering_Tar_6vs2_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_6vs2_Computers.scx)
+- [Sweltering_Tar_5vs3_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_5vs3_Computers.scx)
+- [Sweltering_Tar_4vs4_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_4vs4_Computers.scx)
+- [Sweltering_Tar_3vs5_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_3vs5_Computers.scx)
+- [Sweltering_Tar_2vs6_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_2vs6_Computers.scx)
+- [Sweltering_Tar_1vs7_Computers.scx](https://github.com/acodcha/starcraft-maps/raw/main/maps/Sweltering_Tar/Sweltering_Tar_1vs7_Computers.scx)
 
 [(Back to 4vs4 Maps)](#4vs4-maps)
 
