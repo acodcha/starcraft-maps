@@ -9,6 +9,7 @@ body {
   margin-right: auto;
   margin-top: 0;
   max-width: 720px;
+  overflow-x: hidden;
   padding-bottom: 4em;
   padding-left: 1em;
   padding-right: 1em;
