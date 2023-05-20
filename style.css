@@ -1,7 +1,7 @@
 body {
   background-color: #121212;
   color: #cccccc;
-  font-family: Helvetica;
+  font-family: Helvetica, Arial, sans-serif;
   font-size: 1.2em;
   line-height: 133%;
   margin-bottom: 0;
@@ -46,7 +46,7 @@ a:active {
 
 code {
   color: #aaaaaa;
-  font-family: "Courier New";
+  font-family: Consolas, monaco, monospace;
   font-size: 0.9em;
 }
 
