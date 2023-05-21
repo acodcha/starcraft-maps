@@ -1,24 +1,69 @@
-body {
+html {
   background-color: #121212;
   color: #cccccc;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.2em;
-  line-height: 133%;
+  font-size: 12px;
+  line-height: 1.4rem;
+  overflow-x: hidden;
+  text-align: left;
+}
+
+@media only screen and (max-width: 239px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+@media only screen and (min-width: 240px) and (max-width: 479px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 719px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 720px) and (max-width: 959px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1199px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1439px) {
+  html {
+    font-size: 17px;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+body {
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
   max-width: 640px;
-  overflow-x: hidden;
-  padding-bottom: 4em;
+  padding-bottom: 4rem;
   padding-left: 10px;
   padding-right: 10px;
-  padding-top: 4em;
-  text-align: left;
+  padding-top: 4rem;
 }
 
 a.back {
-  font-size: 0.8em;
+  font-size: 0.8rem;
 }
 
 a:link {
@@ -48,19 +93,21 @@ a:active {
 code {
   color: #aaaaaa;
   font-family: Consolas, monaco, monospace;
-  font-size: 0.9em;
+  font-size: 1rem;
+  line-height: 1.4rem;
+  background-color: #222222;
 }
 
 h1 {
   color: #cccccc;
-  font-size: 2.5em;
+  font-size: 2.8rem;
   font-weight: normal;
-  line-height: 100%;
+  line-height: 3.92rem;
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  padding-bottom: 0.5em;
+  padding-bottom: 0.5rem;
   padding-left: auto;
   padding-right: auto;
   padding-top: 0;
@@ -69,32 +116,32 @@ h1 {
 
 h2 {
   color: #cccccc;
-  font-size: 2.5em;
+  font-size: 2.8rem;
   font-weight: normal;
-  line-height: 100%;
+  line-height: 3.92rem;
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  padding-bottom: 0em;
+  padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
-  padding-top: 0em;
+  padding-top: 0;
 }
 
 h3 {
   color: #cccccc;
-  font-size: 2em;
+  font-size: 2rem;
   font-weight: normal;
-  line-height: 100%;
+  line-height: 2.8rem;
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  padding-bottom: 0em;
+  padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
-  padding-top: 0em;
+  padding-top: 0;
 }
 
 hr {
@@ -102,10 +149,10 @@ hr {
   border-left: 0px;
   border-right: 0px;
   border-top: 0.5px dashed #444444;
-  margin-bottom: 1.33em;
+  margin-bottom: 1.4rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 1.33em;
+  margin-top: 1.4rem;
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
@@ -118,10 +165,10 @@ hr.double {
   border-right: 0px;
   border-top: 0.5px dashed #444444;
   height: 2px;
-  margin-bottom: 2em;
+  margin-bottom: 2rem;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2em;
+  margin-top: 2rem;
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
@@ -135,8 +182,8 @@ img {
 
 p.license {
   color: #aaaaaa;
-  font-size: 0.8em;
-  line-height: 133%;
+  font-size: 0.8rem;
+  line-height: 1.12rem;
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
@@ -145,28 +192,13 @@ p.license {
   padding-left: auto;
   padding-right: auto;
   padding-top: 0;
-}
-
-p.subsubtitle {
-  color: #aaaaaa;
-  font-size: 0.8em;
-  line-height: 133%;
-  margin-bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
-  padding-bottom: 0;
-  padding-left: auto;
-  padding-right: auto;
-  padding-top: 0;
-  text-align: right;
 }
 
 p.subtitle {
   color: #cccccc;
-  font-size: 1.15em;
+  font-size: 1.4rem;
   font-weight: normal;
-  line-height: 133%;
+  line-height: 1.96rem;
   margin-bottom: 0;
   margin-left: auto;
   margin-right: auto;
@@ -176,6 +208,21 @@ p.subtitle {
   padding-right: auto;
   padding-top: 0;
   text-align: center;
+}
+
+p.subsubtitle {
+  color: #aaaaaa;
+  font-size: 0.8rem;
+  line-height: 1.12rem;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 0;
+  text-align: right;
 }
 
 ul {
