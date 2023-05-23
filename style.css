@@ -1,51 +1,51 @@
-html {
+:root {
   background-color: #121212;
   color: #cccccc;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-size: 13px;
   line-height: 1.4rem;
   overflow-x: hidden;
   text-align: left;
 }
 
-@media only screen and (max-width: 239px) {
-  html {
+@media only screen and (max-width: 119px) {
+  :root {
     font-size: 12px;
   }
 }
 
-@media only screen and (min-width: 240px) and (max-width: 479px) {
-  html {
+@media only screen and (min-width: 120px) and (max-width: 239px) {
+  :root {
     font-size: 13px;
   }
 }
 
-@media only screen and (min-width: 480px) and (max-width: 719px) {
-  html {
+@media only screen and (min-width: 240px) and (max-width: 359px) {
+  :root {
     font-size: 14px;
   }
 }
 
-@media only screen and (min-width: 720px) and (max-width: 959px) {
-  html {
+@media only screen and (min-width: 360px) and (max-width: 479px) {
+  :root {
     font-size: 15px;
   }
 }
 
-@media only screen and (min-width: 960px) and (max-width: 1199px) {
-  html {
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+  :root {
     font-size: 16px;
   }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1439px) {
-  html {
+@media only screen and (min-width: 600px) and (max-width: 719px) {
+  :root {
     font-size: 17px;
   }
 }
 
-@media only screen and (min-width: 1440px) {
-  html {
+@media only screen and (min-width: 720px) {
+  :root {
     font-size: 18px;
   }
 }
