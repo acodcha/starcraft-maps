@@ -1,4 +1,4 @@
-# Alex's StarCraft Maps
+# acodcha's StarCraft Maps
 
 Custom-made maps for the *StarCraft* video game by Blizzard Entertainment.
 
