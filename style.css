@@ -62,10 +62,6 @@ body {
   padding-top: 4rem;
 }
 
-a.back {
-  font-size: 0.8rem;
-}
-
 a:link {
   background-color: transparent;
   color: #93b4dd;
@@ -86,6 +82,42 @@ a:hover {
 
 a:active {
   background-color: transparent;
+  color: #b6d3f5;
+  text-decoration: underline;
+}
+
+button {
+  background-color: #222222;
+  border: none;
+  border-radius: 8px;
+  color: #93b4dd;
+  cursor: pointer;
+  display: block;
+  font-size: 0.8rem;
+  line-height: 1.12rem;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  text-align: center;
+  text-decoration: none;
+}
+
+button:visited {
+  color: #93b4dd;
+  text-decoration: none;
+}
+
+button:hover {
+  color: #b6d3f5;
+  text-decoration: underline;
+}
+
+button:active {
   color: #b6d3f5;
   text-decoration: underline;
 }
