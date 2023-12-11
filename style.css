@@ -90,8 +90,17 @@ a:active {
   text-decoration: underline;
 }
 
+caption {
+  color: #cccccc;
+  display: table-caption;
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: 2.8rem;
+  text-align: center;
+}
+
 code {
-  color: #aaaaaa;
+  color: #bbbbbb;
   font-family: Consolas, monaco, monospace;
   font-size: 1rem;
   line-height: 1.4rem;
@@ -107,7 +116,7 @@ h1 {
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
   padding-top: 0;
@@ -115,21 +124,6 @@ h1 {
 }
 
 h2 {
-  color: #cccccc;
-  font-size: 2.8rem;
-  font-weight: normal;
-  line-height: 3.92rem;
-  margin-bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
-  padding-bottom: 0;
-  padding-left: auto;
-  padding-right: auto;
-  padding-top: 0;
-}
-
-h3 {
   color: #cccccc;
   font-size: 2rem;
   font-weight: normal;
@@ -142,6 +136,7 @@ h3 {
   padding-left: auto;
   padding-right: auto;
   padding-top: 0;
+  text-align: center;
 }
 
 hr {
@@ -180,6 +175,22 @@ img {
   max-width: 100%;
 }
 
+p.contents {
+  color: #cccccc;
+  font-size: 1.4rem;
+  font-weight: normal;
+  line-height: 2rem;
+  margin-bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 0;
+  text-align: center;
+}
+
 p.license {
   color: #aaaaaa;
   font-size: 0.8rem;
@@ -206,7 +217,7 @@ p.subtitle {
   padding-bottom: 0;
   padding-left: auto;
   padding-right: auto;
-  padding-top: 0;
+  padding-top: 0.5rem;
   text-align: center;
 }
 
@@ -223,6 +234,35 @@ p.subsubtitle {
   padding-right: auto;
   padding-top: 0;
   text-align: right;
+}
+
+table {
+  border: none;
+  color: #cccccc;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1rem;
+  margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding-bottom: 0;
+  padding-left: auto;
+  padding-right: auto;
+  padding-top: 0;
+  text-align: center;
+  vertical-align: center;
+  width: 100%;
+}
+
+th,
+td {
+  border-spacing: 0;
+  padding-bottom: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-top: 2px;
+  width: 50%;
 }
 
 ul {
