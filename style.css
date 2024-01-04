@@ -253,21 +253,6 @@ p.subtitle {
   text-align: center;
 }
 
-p.subsubtitle {
-  color: #aaaaaa;
-  font-size: 0.8rem;
-  line-height: 1.12rem;
-  margin-bottom: 0;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 0;
-  padding-bottom: 0;
-  padding-left: auto;
-  padding-right: auto;
-  padding-top: 0;
-  text-align: right;
-}
-
 table {
   border: none;
   color: #cccccc;
