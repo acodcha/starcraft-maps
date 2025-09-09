@@ -12,8 +12,8 @@ Hosted at: <https://acodcha.github.io/starcraft-maps>
 
 This project requires the following software to be installed on your system:
 
-- Git: This project uses the Git source control system and is stored as a Git repository and therefore requires the Git source control system to be installed on your system. On Ubuntu, install the Git source control system with sudo apt install git or visit <https://git-scm.com> for alternate means of installation.
-- Git-LFS: This project uses the Git Large File Storage (Git-LFS) extension for managing map and image files and therefore requires the Git-LFS extension to be installed on your system. On Ubuntu, install the Git-LFS extension with sudo apt install git-lfs or visit <https://git-lfs.com> for alternate means of installation.
+- Git: This project uses the Git source control system and is stored as a Git repository and therefore requires the Git source control system to be installed on your system. On Ubuntu, install the Git source control system with `sudo apt install git` or visit <https://git-scm.com> for alternate means of installation.
+- Git-LFS: This project uses the Git Large File Storage (Git-LFS) extension for managing map and image files and therefore requires the Git-LFS extension to be installed on your system. On Ubuntu, install the Git-LFS extension with `sudo apt install git-lfs` or visit <https://git-lfs.com> for alternate means of installation.
 
 ## Configuration
 
